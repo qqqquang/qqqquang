@@ -1,7 +1,8 @@
-### WELCOME TO MY PAGE 👋👋👋
+## WELCOME TO MY PAGE 👋👋👋
 
-My name is Nguyen Ngoc Quang. I graduated from Hanoi University of Science and Technology, majoring in Mathematics and Informatics. 
-## 📫 How to reach me: 
+My name is Nguyen Ngoc Quang. Graduated from Hanoi University of Science and Technology, majoring in Mathematics and Informatics, now i'm looking forward to learn new things. 
+
+## How to reach me: 
 
 
 ## Some of my projects:
