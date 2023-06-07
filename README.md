@@ -1,12 +1,10 @@
 ### WELCOME TO MY PAGE 👋👋👋
 
-
+My name is Nguyen Ngoc Quang. I graduated from Hanoi University of Science and Technology, majoring in Mathematics and Informatics. 
 ## 📫 How to reach me: 
 
 
-![Quang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=qqqquang&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-
-
+## Some of my projects:
 
 <a href="https://github.com/qqqquang/Time_series">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
