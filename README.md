@@ -8,6 +8,5 @@
 
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qqqquang&repo=Time_series&show_owner=true)
-
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qqqquang&repo=Time_series&show_owner=true)(https://github.com/qqqquang/Time_series)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
