@@ -14,6 +14,8 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=qqqquang&repo=/Datathon_KPIM&theme=radical" />
 </a>    
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/qqqquang/Datathon_KPIM))
+
 **qqqquang/qqqquang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
