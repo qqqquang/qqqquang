@@ -14,7 +14,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=qqqquang&repo=Datathon_KPIM&theme=gruvbox" />
 </a>  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/qqqquang/Datathon_KPIM)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qqqquang&repo=Datathon_KPIM)](https://github.com/qqqquang/Datathon_KPIM)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
