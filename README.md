@@ -1,6 +1,6 @@
 ## WELCOME TO MY PAGE 👋👋👋
 
-My name is Nguyen Ngoc Quang. Graduated from Hanoi University of Science and Technology, majoring in Mathematics and Informatics, now i'm looking forward to learn new things. 
+I graduated from Hanoi University of Science and Technology, majoring in Mathematics and Informatics. Now, I am eager to gain more knowledge about the data industry. 
 
 ## How to reach me: 
 
