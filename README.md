@@ -19,4 +19,8 @@ I graduated from Hanoi University of Science and Technology, majoring in Mathema
 <a href="https://github.com/qqqquang/Datathon_KPIM">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=qqqquang&repo=Datathon_KPIM&theme=gruvbox" />
-</a>    
+</a> 
+<a href="https://github.com/qqqquang/Titanic-Survival-Prediction">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=qqqquang&repo=Titanic-Survival-Prediction&theme=radical" />
+</a> 
